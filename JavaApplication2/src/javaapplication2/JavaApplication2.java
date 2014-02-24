@@ -16,7 +16,7 @@ public class iMat {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("hej hej");
+        System.out.println("hej");
     }
     
 }
