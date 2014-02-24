@@ -12,4 +12,8 @@ package javaapplication2;
  */
 public class NewClass {
     
+    public NewClass(){
+        System.out.println("Ny klassssssss allt funkar!!!!!");
+    }
+    
 }
