@@ -10,13 +10,13 @@ package javaapplication2;
  *
  * @author Yff
  */
-public class JavaApplication2 {
+public class iMat {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
     }
     
 }
