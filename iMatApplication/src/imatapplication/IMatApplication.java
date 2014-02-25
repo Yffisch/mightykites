@@ -6,6 +6,8 @@
 
 package imatapplication;
 
+import javax.swing.JFrame;
+
 /**
  *
  * @author Yff
@@ -17,6 +19,7 @@ public class IMatApplication {
      */
     public static void main(String[] args) {
         // Alexander was here
+        new NewJFrame().setVisible(true);
     }
     
 }
